@@ -1,8 +1,8 @@
 # [LeonHazardMajestic.github.io](https://LeonHazardMajestic.github.io)
 
 ---
-web-title: Leon Hazard Majestic
-web-description: Introduction For LeonHazard
+title: Leon Hazard Majestic Websites
+description: Introduction For LeonHazard
 author: [@LeonHazardMajestic](https://github.com/LeonHazard)
 ---
 
