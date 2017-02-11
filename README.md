@@ -1,9 +1,11 @@
+# [LeonHazardMajestic.github.io](https://LeonHazardMajestic.github.io)
+
 ---
-title: LeonHazardMajestic
-description: Introduction For LeonHazard
-author: @LeonHazardMajestic
+web-title: Leon Hazard Majestic
+web-description: Introduction For LeonHazard
+author: [@LeonHazardMajestic](https://github.com/LeonHazard)
 ---
 
-# LeonHazardMajestic.github.io
-Websites
-
+# About
+- This Is The Source Code Of Leon's Websites.
+- Created By The Author.
