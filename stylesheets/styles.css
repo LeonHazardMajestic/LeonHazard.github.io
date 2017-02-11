@@ -12,8 +12,22 @@ h1, h2, h3, h4, h5, h6 {
   margin:0 0 20px;
 }
 
-p, ul, ol, table, pre, dl {
+p, ul, ol, table, pre, dl, intro {
   margin:0 0 20px;
+}
+
+hlinks {
+  color: #63a35c;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+
+intro {
+  margin: 0 0 20px;
+  color: #393939;
+  font-weight: 400;
+  text-decoration: none;
 }
 
 h1, h2, h3 {
@@ -128,7 +142,7 @@ header li {
   height:40px;
 }
 
-header ul a {
+header ul a hlinks {
   line-height:1;
   font-size:11px;
   color:#999;
@@ -153,7 +167,7 @@ header ul li + li + li {
   width:89px;
 }
 
-header ul a strong {
+header ul a hlinks strong {
   font-size:14px;
   display:block;
   color:#222;
@@ -207,7 +221,7 @@ footer {
     margin:0 0 20px;
   }
   
-  header a small {
+  header a hlinks small {
     display:inline;
   }
   
