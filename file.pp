@@ -19,7 +19,7 @@
     <body>
         <div id="header_wrap" class="outer">
             <header class="inner">
-                <h1 id="project_title">Leon Hazard Majestic Websites</h1>
+               <h1 id="project_title">Leon Hazard Majestic Websites</h1>
                 <p> </p>
                 <hlinks> | <a href="https://instagram.com/leon_hazard_majestic/">Instagram</a> | <a href="https://www.facebook.com/debuchy.xzavier">Facebook</a> | <a href="https://leonhazardmajestic.wordpress.com">Blogs</a> | <a href="https://github.com/LeonHazardMajestic/">Github</a> | </hlinks>
                 <p> </p>
